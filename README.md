@@ -2,7 +2,7 @@
 
 A simple React application that asks for your name and displays a personalized greeting.  
 Deployed with **GitHub Pages** at:  
-👉 [Live Demo](https://folaarr.github.io/react-note-taking-app/)
+👉 [Live Demo](https://folaarr.github.io/interactive-form-with-react/)
 
 ---
 
@@ -30,8 +30,8 @@ Deployed with **GitHub Pages** at:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/folaarr/react-note-taking-app.git
-   cd react-note-taking-app
+   git clone https://github.com/folaarr/interactive-form-with-react.git
+   cd interactive-form-with-react
    ```
 
 2. Install dependencies:
@@ -52,13 +52,13 @@ Deployed with **GitHub Pages** at:
 ## 🌐 Deployment (GitHub Pages)
 
 This project is hosted on **GitHub Pages** at:  
-➡️ [https://folaarr.github.io/react-note-taking-app/](https://folaarr.github.io/react-note-taking-app/)
+➡️ [https://folaarr.github.io/interactive-form-with-react/](https://folaarr.github.io/interactive-form-with-react/)
 
 ### Deployment steps:
 
 **1. Add the following to your `package.json`:**
 ```json
-"homepage": "https://folaarr.github.io/react-note-taking-app"
+"homepage": "https://<your-github-username>.github.io/<your-repo-name>"
 ```
 
 **2. Install the GitHub Pages package:**
