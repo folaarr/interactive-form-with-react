@@ -56,17 +56,22 @@ This project is hosted on **GitHub Pages** at:
 
 ### Deployment steps:
 
-**1. Add the following to your `package.json`:**
+**1. Build for production:**
+```bash
+npm run build
+```
+
+**2. Add the following to your `package.json`:**
 ```json
 "homepage": "https://<your-github-username>.github.io/<your-repo-name>"
 ```
 
-**2. Install the GitHub Pages package:**
+**3. Install the GitHub Pages package:**
 ```
 npm install --save gh-pages
 ```
 
-**3. Add deploy scripts in `package.json`:**
+**4. Add deploy scripts in `package.json`:**
 ```
 "scripts": {
   "predeploy": "npm run build",
@@ -74,7 +79,7 @@ npm install --save gh-pages
 }
 ```
 
-**4. Run deployment:**
+**5. Run deployment:**
 ```
 npm run deploy
 ```
