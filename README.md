@@ -1,6 +1,6 @@
 # 📝 Interactive Form With React
 
-A simple React application that asks for your name and displays a personalized greeting.  
+An interactive React form that asks for your name and displays a personalized greeting.  
 Deployed with **GitHub Pages** at:  
 👉 [Live Demo](https://folaarr.github.io/interactive-form-with-react/)
 
